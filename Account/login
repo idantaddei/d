@@ -1,0 +1,14 @@
+{
+    "statusTextLink": null,
+    "statusLinkType": 0,
+    "statusCode": 1,
+    "statusDescription": null,
+    "statusTitle": null,
+    "result": {
+      "sessionToken": "",
+      "id": "999999999",
+      "firstName": "בן",
+      "lastName": "אדם",
+      "gender": null
+    }
+  }

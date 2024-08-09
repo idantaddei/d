@@ -1,0 +1,38 @@
+{
+    "statusCode": 1,
+    "statusDescription": null,
+    "statusTitle": null,
+    "result": {
+      "personalNumber": "1",
+      "idNumber": "999999999",
+      "dayOfBirth": null,
+      "releaseDate": null,
+      "operativeCers": [
+        {
+          "certificateType": 4,
+          "certificateDesignTemplate": 4,
+          "certificateName": "אישור להיות חתיך על",
+          "certificateNumber": "123",
+          "startValidDate": "2023-07-16T00:00:00",
+          "endValidDate": "2025-12-17T00:00:00",
+          "endBenefitsDate": "9999-12-31T00:00:00",
+          "indicationDecoration": 0,
+          "indictionWarrior": true,
+          "indicationExcellence": false,
+          "smallCardBackImg": "https://wallet.prat.idf.il/images/templates/4/horizontal_7.png?v=3",
+          "smallCardIndImg": "",
+          "bigCardBackImg": "https://wallet.prat.idf.il/images/templates/4/vertical_7.png?v=3",
+          "bigCardIndImg": "https://wallet.prat.idf.il/?v=3",
+          "comment": "האישור כולל החזר כספי",
+          "hasGlasses": false,
+          "licenseType": null,
+          "permit": null,
+          "driverLicenseStatus": 0,
+          "typeIndication": 0,
+          "format": 2,
+          "benefits": []
+        }
+      ],
+      "notOperativeCers": []
+    }
+  }  
