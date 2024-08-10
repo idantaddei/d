@@ -73,7 +73,67 @@
               "url": null
             }
           ]
-        }
+        },
+        {
+          "certificateType": 4,
+          "certificateDesignTemplate": 4,
+          "certificateName": "תעודת לוחם סייבר",
+          "certificateNumber": "654654",
+          "startValidDate": "2003-01-01T00:00:00",
+          "endValidDate": "2030-12-29T00:00:00",
+          "endBenefitsDate": "9999-12-31T00:00:00",
+          "indicationDecoration": 3,
+          "indictionWarrior": true,
+          "indicationExcellence": true,
+          "smallCardBackImg": "https://securitybrief.com.au/uploads/story/2022/06/01/GettyImages-1313285963.webp",
+          "smallCardIndImg": "",
+          "bigCardBackImg": "https://img.freepik.com/premium-photo/secure-web-cybersecurity-information-protection-future-technology-projects-vertical-mobile-w_892776-20228.jpg?w=740",
+          "bigCardIndImg": "https://wallet.prat.idf.il/?v=3",
+          "comment": "אם תעצור נושא תעודה זו, צפה פגיעה...",
+          "hasGlasses": false,
+          "licenseType": null,
+          "permit": null,
+          "driverLicenseStatus": 0,
+          "typeIndication": 0,
+          "format": 2,
+          "benefits": [
+            {
+              "title": "מלא חברים",
+              "url": null
+            },
+            {
+              "title": "מלא כסף",
+              "url": null
+            },
+            {
+              "title": "כוחות על",
+              "url": null
+            }
+          ]
+        },
+        {
+        "certificateType": 2,
+        "certificateDesignTemplate": 28,
+        "format": 1,
+        "certificateName": "תעודת קצין שומר טבע",
+        "certificateNumber": "1865424",
+        "startValidDate": "2020-07-20T00:00:00",
+        "endValidDate": "2028-07-20T00:00:00",
+        "endBenefitsDate": "2028-07-20T00:00:00",
+        "indicationDecoration": 4,
+        "indictionWarrior": true,
+        "indicationExcellence": true,
+        "smallCardBackImg": "https://wallet.prat.idf.il/images/templates/11/horizontal_12.png?v=3",
+        "smallCardIndImg": "",
+        "bigCardBackImg": "https://wallet.prat.idf.il/images/templates/11/vertical_12.png?v=3",
+        "bigCardIndImg": "https://wallet.prat.idf.il/?v=3",,
+        "comment": "לוחם מיחידת הצפרדעים",
+        "licenseType": "J5",
+        "permit": "A1|A6",
+        "glassesInd": false,
+        "driverLicenseStatus": 2,
+        "benefits": []
+      }
       ],
       "notOperativeCers": [
         {
