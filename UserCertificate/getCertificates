@@ -12,27 +12,94 @@
           "certificateType": 4,
           "certificateDesignTemplate": 4,
           "certificateName": "אישור להיות חתיך על",
-          "certificateNumber": "123",
-          "startValidDate": "2023-07-16T00:00:00",
-          "endValidDate": "2025-12-17T00:00:00",
+          "certificateNumber": "156732",
+          "startValidDate": "2003-01-01T00:00:00",
+          "endValidDate": "2029-12-10T00:00:00",
           "endBenefitsDate": "9999-12-31T00:00:00",
-          "indicationDecoration": 0,
+          "indicationDecoration": 3,
           "indictionWarrior": true,
-          "indicationExcellence": false,
+          "indicationExcellence": true,
           "smallCardBackImg": "https://wallet.prat.idf.il/images/templates/4/horizontal_7.png?v=3",
           "smallCardIndImg": "",
           "bigCardBackImg": "https://wallet.prat.idf.il/images/templates/4/vertical_7.png?v=3",
           "bigCardIndImg": "https://wallet.prat.idf.il/?v=3",
-          "comment": "האישור כולל החזר כספי",
+          "comment": "האישור כולל סופי שבוע",
+          "hasGlasses": false,
+          "licenseType": "B4",
+          "permit": "A1|A2|A",
+          "driverLicenseStatus": 2,
+          "typeIndication": 0,
+          "format": 2,
+          "benefits": [
+            {
+              "title": "אישור זה מקנה חברה לסופי שבוע",
+              "url": null
+            }
+          ]
+        },
+        {
+          "certificateType": 4,
+          "certificateDesignTemplate": 4,
+          "certificateName": "תעודת לוחם סייבר",
+          "certificateNumber": "654654",
+          "startValidDate": "2003-01-01T00:00:00",
+          "endValidDate": "2030-12-29T00:00:00",
+          "endBenefitsDate": "9999-12-31T00:00:00",
+          "indicationDecoration": 3,
+          "indictionWarrior": true,
+          "indicationExcellence": true,
+          "smallCardBackImg": "https://securitybrief.com.au/uploads/story/2022/06/01/GettyImages-1313285963.webp",
+          "smallCardIndImg": "",
+          "bigCardBackImg": "https://img.freepik.com/premium-photo/secure-web-cybersecurity-information-protection-future-technology-projects-vertical-mobile-w_892776-20228.jpg?w=740",
+          "bigCardIndImg": "https://wallet.prat.idf.il/?v=3",
+          "comment": "אם תעצור נושא תעודה זו, צפה פגיעה...",
           "hasGlasses": false,
           "licenseType": null,
           "permit": null,
           "driverLicenseStatus": 0,
           "typeIndication": 0,
           "format": 2,
-          "benefits": []
+          "benefits": [
+            {
+              "title": "מלא חברים",
+              "url": null
+            },
+            {
+              "title": "מלא כסף",
+              "url": null
+            },
+            {
+              "title": "כוחות על",
+              "url": null
+            }
+          ]
         }
       ],
-      "notOperativeCers": []
+      "notOperativeCers": [
+        {
+          "certificateType": 4,
+          "certificateDesignTemplate": 4,
+          "certificateName": "תעודת צעיר",
+          "certificateNumber": "98245",
+          "startValidDate": "2003-01-01T00:00:00",
+          "endValidDate": "2024-10-01T00:00:00",
+          "endBenefitsDate": "9999-12-31T00:00:00",
+          "indicationDecoration": 0,
+          "indictionWarrior": false,
+          "indicationExcellence": false,
+          "smallCardBackImg": "https://wallet.prat.idf.il/images/templates/4/horizontal_7.png?v=3",
+          "smallCardIndImg": "",
+          "bigCardBackImg": "https://wallet.prat.idf.il/images/templates/4/vertical_7.png?v=3",
+          "bigCardIndImg": "https://wallet.prat.idf.il/?v=3",
+          "comment": "נושא תעודה זו מנוע מלצעוק ש\"צ",
+          "hasGlasses": false,
+          "licenseType": null,
+          "permit": null,
+          "driverLicenseStatus": 0,
+          "typeIndication": 0,
+          "format": 3,
+          "benefits": []
+        }
+      ]
     }
   }  
